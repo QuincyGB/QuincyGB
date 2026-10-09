@@ -23,7 +23,7 @@ I've spent the last 10 years managing residential and commercial business accoun
 - **Backend** — Python, FastAPI, REST APIs, webhooks
 - **Web3** — Solidity, escrow contracts, Base / Arc / Solana, x402 agent payments
 - **Sales & CRM** — B2B account management, territory management, Salesforce (Certified Administrator)
-- **Domain** — commercial & residential HVAC, payment disputes, trust & safety
+- **Domain** — B2B account operations, payment disputes, trust & safety, escrow & payments
 
 ## Contact
 
