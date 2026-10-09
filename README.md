@@ -2,7 +2,7 @@
 
 **B2B Account Manager building autonomous AI agents** — Whitby / Toronto, Ontario, Canada
 
-I manage B2B accounts for a living — commercial and residential HVAC is my home turf — and I build AI agents on top of that experience. My projects focus on autonomous agents for finance, legal, and sales: systems that take a real workflow end to end, with payments, escrow, and audit trails handled in code. I compete in hackathons and ship live products, not slide decks.
+I've spent the last 10 years managing residential and commercial business accounts — owning the client relationships, the renewals, and the day-to-day problems that never make it into a job description. That decade taught me exactly where business workflows break, so now I build from that experience: autonomous AI agents that do the operational work I used to watch fall through the cracks, for finance, legal, and sales teams. I ship live products and compete in hackathons, building in public.
 
 ## Projects
 
